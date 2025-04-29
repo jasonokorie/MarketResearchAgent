@@ -1,6 +1,6 @@
-PainPoint Market Research Agent
+##PainPoint Market Research Agent
 
-Overview
+#Overview
 
 PainPoint_Market_Research_Agent is a hands-on workshop and reference implementation for building a multi-turn, stateful market research chatbot using large language models (LLMs) and LangGraph. The notebook guides you through:
 
