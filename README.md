@@ -1,6 +1,6 @@
-##PainPoint Market Research Agent
+## PainPoint Market Research Agent
 
-#Overview
+# Overview
 
 PainPoint_Market_Research_Agent is a hands-on workshop and reference implementation for building a multi-turn, stateful market research chatbot using large language models (LLMs) and LangGraph. The notebook guides you through:
 
@@ -66,9 +66,9 @@ from userdata import get
 assert get("GEMINI_API_KEY")
 assert get("OPENAI_API_KEY")
 
-Usage
+## Usage
 
-Notebook Workflow
+# Notebook Workflow
 
 Open PainPoint_Market_Research_Agent.ipynb in Jupyter Lab or VS Code.
 
@@ -121,7 +121,7 @@ Acknowledgements & Next Steps
 
 Built with ❤️ using LangChain and Google Gemini
 
-Inspired by best practices in prompt engineering and stateful LLM orchestration
+Inspired by Google Developer Club's MedicalAgent for prompt engineering and stateful LLM orchestration
 
 Next ideas:
 
